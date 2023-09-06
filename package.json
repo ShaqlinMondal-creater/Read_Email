@@ -1,0 +1,15 @@
+{
+  "name": "gmailapi",
+  "version": "1.0.0",
+  "description": "Read Email",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Shaqlin Mondal",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "qs": "^6.11.2"
+  }
+}
